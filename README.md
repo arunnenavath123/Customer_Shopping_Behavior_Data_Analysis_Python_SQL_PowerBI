@@ -232,10 +232,10 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Vineet Patel**
-- Email: vineetpatel468@gmail.com
-- GitHub: [@vineet416](https://github.com/vineet416)
-- LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
+**Arun Nenavath**
+- Email: nenavatharun973@gmail.com
+- GitHub: https://github.com/arunnenavath123
+- LinkedIn: https://www.linkedin.com/in/arun-nenavath-6a1532317/
 
 ## 📧 Contact
 
@@ -244,3 +244,4 @@ For any questions or feedback regarding this project, please feel free to reach 
 ---
 
 *This project demonstrates end-to-end data analytics skills including data cleaning, feature engineering, database management, and SQL-based business intelligence.*
+
